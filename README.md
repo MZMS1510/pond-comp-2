@@ -12,4 +12,10 @@ O segundo circuito (o que utiliza capacitores), contém o script presente em [`p
 
 ## Análise de dados
 
-Para observar a transferêcia dos dados 
+Para observar a transferêcia da tensão entre o resistor e o capacitor, pegamos as informações impressas no console e colocamos ela como input no notebook [`graph.ipynb`](./graph.ipynb). A partir disso, podemos obter o seguinte gráfico:
+
+![Gráfico de transferência de tensão](./graph.png)
+
+## Referências
+
+UNIVESP. **Eletromagnetismo - Aula 28 - Circuitos RC, RL e LC**. Disponível em: https://youtu.be/xjI9Ju2RHOg?si=sLxEbpnSH0gvNg9H
