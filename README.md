@@ -18,4 +18,4 @@ Para observar a transferêcia da tensão entre o resistor e o capacitor, pegamos
 
 ## Referências
 
-UNIVESP. **Eletromagnetismo - Aula 28 - Circuitos RC, RL e LC**. Disponível em: https://youtu.be/xjI9Ju2RHOg?si=sLxEbpnSH0gvNg9H
+UNIVESP. **Eletromagnetismo - Aula 28 - Circuitos RC, RL e LC**. Disponível em: <https://youtu.be/xjI9Ju2RHOg?si=sLxEbpnSH0gvNg9H>
